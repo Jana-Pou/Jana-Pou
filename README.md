@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS on freecodecamp.org
+- 🌱 I’m currently learning HTML, CSS and JS on freecodecamp.org
 - 📫 You can reach me at my email address poupova.jana@seznam.cz
 
 <!---
